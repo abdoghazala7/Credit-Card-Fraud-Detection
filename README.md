@@ -1,6 +1,3 @@
-# Credit-Card-Fraud-Detection
-ML / Unsupervised / Anomaly Detection / PCA+IsolationForest 
-
 # About Dataset:
 
 >- `Context` :  It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
@@ -13,4 +10,6 @@ This dataset presents transactions that occurred in two days, where we have 492 
 >                                                                                     
 >- The dataset is here on kaggle : https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
-## I used in this project PCA and IsolationForest and i got a great results 😇
+# Project Overview :
+This is an Unsupervised machine-learning project, I have used vision techniques such as principal component analysis(PCA) to discover existing patterns, I used the Isolation Forest algorithm to detect anomalies, which are frauds, and Since the data is imbalanced, I Evaluated the model performance using appropriate metrics and techniques such as accuracy, precision, recall, and Area Under the Precision-Recall Curve (AUPRC).
+
